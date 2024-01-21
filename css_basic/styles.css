@@ -1,0 +1,36 @@
+
+dy {
+    display: flex;
+    
+}
+header{
+    width: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    width: 100%;
+    
+}
+article {
+    width: 66.67%;
+    left: 0px;
+    flex: 2
+    
+    
+    
+
+
+}
+
+aside{
+    right: 0px;
+    width: 33.33%;
+    flex: 1
+    
+}
+footer{
+    width: 100%;
+}
